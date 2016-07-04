@@ -24,6 +24,4 @@ public class Test
 	/**
 	*	分支的合并练习
 	*/
-	
-	//revert的使用
 }
